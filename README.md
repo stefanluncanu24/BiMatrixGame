@@ -13,7 +13,7 @@ A Python application with a Tkinter GUI to solve two-player zero-sum matrix game
 
 ## Project Context
 
-This was developed as a university project for an Operations Research course.
+This was developed as a university project for the Operations Research course.
 
 ## Author
 
